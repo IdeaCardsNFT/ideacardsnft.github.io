@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: IdeaCardsNFT - Research Statement
     - name: 'twitter:description'
       value: >-
         The #ideacards NFT experiment questions the future of intellectual
