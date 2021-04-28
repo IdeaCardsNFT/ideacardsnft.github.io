@@ -3,7 +3,6 @@ title: Research Statement
 subtitle: Work in progress
 image_alt: A man taking a picture
 seo:
-  title: About Us
   description: This is the about us page
   extra:
     - name: 'og:type'
