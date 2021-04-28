@@ -1,5 +1,5 @@
 ---
-title: '#ideacards, can you own an idea?'
+title: Home
 hide_title: false
 sections:
   - section_id: hero
