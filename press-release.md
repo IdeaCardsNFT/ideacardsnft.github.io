@@ -3,7 +3,7 @@ title: Press Release
 subtitle: 'PARIS, 28/04/2021'
 image_alt: A man taking a picture
 seo:
-  title: About Us
+  title: Press Release
   description: This is the about us page
   extra:
     - name: 'og:type'
