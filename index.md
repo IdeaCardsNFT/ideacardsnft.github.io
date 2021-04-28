@@ -41,7 +41,7 @@ sections:
         content: "All\_the\_initial\_notes\_related\_to\_each\_idea\_are\_destroyed. Only the NFT remains.\n"
       - title: Physical evidence is destroyed
         image_alt: lorem-ipsum
-        content: "All\_the\_initial\_notes\_related\_to\_each\_idea\_are\_destroyed. Only the NFT remains.\n"
+        content: "All\_the\_initial\_notes\_related\_to\_each\_idea\_are\_destroyed.\n\nOnly the NFT remains.\n"
         actions: []
         type: grid_item
   - title: A design research experiment
