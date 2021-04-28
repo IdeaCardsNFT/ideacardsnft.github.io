@@ -33,7 +33,7 @@ footer:
   social_links:
     - label: ig
       url: 'https://www.instagram.com/ideacardsnft/'
-      style: link
+      style: icon
       icon: dribbble
       new_window: false
       no_follow: false
