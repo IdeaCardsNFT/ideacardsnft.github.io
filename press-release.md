@@ -58,7 +58,7 @@ WIP
 
 #### Contacts
 
-Collection: <https://opensea.io/collection/ideacards/>
-Instagram: [@ideacardsnft]()
-Email: ideacardsnft@gmail.com
+Collection: <https://opensea.io/collection/ideacards/>  
+Instagram: [@ideacardsnft]()  
+Email: ideacardsnft@gmail.com  
 Web: <https://ideacardsnft.github.io>
