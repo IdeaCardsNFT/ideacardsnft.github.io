@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: '#ideacards, can you own an idea?'
     content: >
-      This design-research project questions limits of intellectual property and
-      creativity in the blockchain era.
+      This NFT project questions limits of intellectual property and creativity
+      in the blockchain era.
     actions:
       - label: OpenSea Collection
         url: 'https://opensea.io/collection/ideacards/'
