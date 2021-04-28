@@ -10,7 +10,7 @@ sections:
       one to three sentences, but can be changed as you prefer.
     actions:
       - label: OpenSea Collection
-        url: /contact
+        url: 'https://opensea.io/collection/ideacards/'
         style: button
   - section_id: services
     type: section_grid
