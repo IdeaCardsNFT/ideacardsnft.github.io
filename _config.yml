@@ -16,6 +16,13 @@ header:
     - label: Press Release
       url: /press-release/
       style: link
+    - label: lorem-ipsum
+      url: '#'
+      style: link
+      icon: dribbble
+      new_window: false
+      no_follow: false
+      type: action
 footer:
   content: >-
     &copy; IdeaCardsNFT. All rights reserved. This Jamstack site was created
