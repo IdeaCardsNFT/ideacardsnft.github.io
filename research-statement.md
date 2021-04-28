@@ -11,7 +11,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: IdeaCardsNFT - Research Statement
       keyName: property
     - name: 'og:description'
       value: >-
