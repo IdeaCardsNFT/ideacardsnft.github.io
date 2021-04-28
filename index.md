@@ -84,7 +84,7 @@ sections:
         type: grid_item
     type: section_grid
 seo:
-  title: Stackbit Exto Theme
+  title: IdeaCardsNFT
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
