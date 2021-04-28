@@ -38,7 +38,7 @@ footer:
       new_window: true
       no_follow: false
       type: action
-    - label: insta
+    - label: email
       url: '#'
       style: link
       icon: dribbble
