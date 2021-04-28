@@ -24,7 +24,9 @@ seo:
     - name: 'twitter:title'
       value: IdeaCardsNFT - Press Release
     - name: 'twitter:description'
-      value: This is the about us page
+      value: >-
+        The #ideacards NFT experiment questions the future of intellectual
+        property and creativity in the age of the blockchain.
 layout: page
 ---
 > The #ideacards NFT experiment questions the future of intellectual property and creativity in the age of the blockchain
