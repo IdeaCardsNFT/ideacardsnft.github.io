@@ -32,8 +32,6 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-      - title: Summarized in an idea card
-        content: "Each\_idea\_is\_condensed\_from\_sparse\_notes\_and\_scribbles\_into\_a\_one\_page\_summary.\n"
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
