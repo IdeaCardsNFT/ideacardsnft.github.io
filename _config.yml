@@ -70,4 +70,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-domain: 'https://ideacardsnftgithubio-8e473.netlify.app'
+domain: 'https://ideacardsnft.github.io'
