@@ -80,13 +80,13 @@ sections:
           ## The impact of NFT on creativity
 
 
-          New technologies such as crowdsourcing and 3D printing have changed
-          design practice profoundly. Will NFT do the same?
+          New technologies such as 3D printing and A.I. are changing design
+          practice profoundly. Will NFT do the same?
 
 
           In a setup where the creator can timestamp, communicate and exploit
-          their ideas directly, without other stakeholders, how will their role
-          change in the production of value?
+          their ideas directly, without middle person or other stakeholders, how
+          will their role change in the production of value?
 
 
           Will their creativity be impacted by the need to produce ideas that
