@@ -1,6 +1,6 @@
 ---
 title: Research Statement
-subtitle: This is a short page about us and our work.
+subtitle: TBH TBD
 image_alt: A man taking a picture
 seo:
   title: About Us
