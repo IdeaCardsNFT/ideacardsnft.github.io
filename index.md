@@ -109,7 +109,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Exto Theme
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: >-
+        This NFT project questions limits of intellectual property and
+        creativity in the blockchain era.
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
