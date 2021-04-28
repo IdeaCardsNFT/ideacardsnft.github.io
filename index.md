@@ -35,6 +35,7 @@ sections:
       - title: Ideas are summarized in a card
         content: |
           A summary is crafted, capturing the essence of each idea.
+        image: images/summary-pages.png
       - title: Ideas are minted as NFT
         content: |
           The handwritten summary is scanned and published as an NFT on OpenSea.
