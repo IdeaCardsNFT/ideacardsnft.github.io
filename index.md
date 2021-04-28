@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: '#ideacards, an NFT experiment'
     content: >
-      An NFT experiment that questions limits of intellectual property and
+      This design-research project questions limits of intellectual property and
       creativity in the blockchain era.
     actions:
       - label: OpenSea Collection
