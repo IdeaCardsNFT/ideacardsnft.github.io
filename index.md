@@ -31,7 +31,7 @@ sections:
         content: >
           Ideas are picked from a stack of old notebooks. They were never
           released nor implemented before.
-      - title: Service Title
+      - title: Ideas are summarized in a card
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
