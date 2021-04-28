@@ -72,7 +72,14 @@ sections:
 
           By foreseeing those changes, the #ideacards project is probing this
           new paradigm with mainstream adopters of NFT.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
       - title: For academia...
         image_alt: lorem-ipsum
