@@ -34,8 +34,6 @@ layout: page
 
 > The #ideacards NFT project questions the future of intellectual property and creativity in the age of the blockchain
 
-PARIS, APR 25, 2021
-
 A new creative project can let you **own an idea by buying it as a non-fungible tokens** (NFT). This artistic project consists in **symbolically transfering ideas to the blockchain**: original ideas are picked from scribbled paper notebooks, then a summary is minted as an NFT, finally all physical evidence is destroyed. The process is designed as a performance, but the question raised is very seriously considered by the industry today: **can NFT be used to trade intellectual property?**
 
 The project is not digital art per se, but is using NFTs to make a point.
@@ -53,8 +51,6 @@ Only 8 of the 17 ideas have been released so far and **their diversity is pretty
 his artistic experiment is not a random performance, it hits one of the major question for the industry today: the **use of NFT for management of intellectual property**. This is already on the move. Recently, IBM and IPew announced a project for publishing patents as NFT. By equating the property of intellectual assets to the ownership of a non-fungible token, the intention is **to make the patent market more fluid** by letting IP assets be exchanged freely and programmatically through the blockchain. By foreseeing those changes, the #ideacards project is probing this new paradigm with early mainstream adopters of NFT.
 
 #### A long-term question for creativity
-
-
 
 "As a researcher, I am very curious and always striving for originality", says the creator behind the project. "For years I have been taking random notes in my notebooks. Recently I
 
