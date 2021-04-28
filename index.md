@@ -93,7 +93,7 @@ sections:
           can be auctioned?
         actions:
           - label: Research Statement
-            url: '#'
+            url: /research-statement/
             style: link
             icon: dribbble
             new_window: false
