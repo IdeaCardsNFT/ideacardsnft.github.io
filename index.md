@@ -15,7 +15,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Uploading ideas to the blockchain
-    subtitle: How we created 17 original ideas as NFT
+    subtitle: How we minted 17 original ideas as NFT
     col_number: two
     is_numbered: true
     grid_items:
