@@ -31,7 +31,7 @@ footer:
     target="_blank" rel="noopener">now</a>
   has_social: true
   social_links:
-    - label: lorem-ipsum
+    - label: ig
       url: '#'
       style: link
       icon: dribbble
