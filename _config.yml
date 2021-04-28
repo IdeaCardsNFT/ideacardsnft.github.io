@@ -16,7 +16,7 @@ header:
     - label: Press Release
       url: /press-release/
       style: link
-    - label: lorem-ipsum
+    - label: Research Statement
       url: '#'
       style: link
       icon: dribbble
