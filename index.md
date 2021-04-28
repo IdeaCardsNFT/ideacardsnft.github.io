@@ -50,17 +50,24 @@ sections:
     grid_items:
       - title: For the industry...
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Probing the limits of IP on the blockchain
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          This experiment tackles one of the major question for the industry
+          today: the **use of NFT for management of intellectual property**.
 
 
-          - Lorem ipsum
+          This is already on the move. Recently, IBM and IPew announced a
+          project for publishing patents as NFT. By equating the property of
+          intellectual assets to the ownership of a non-fungible token, the
+          intention is **to make the patent market more fluid** by letting IP
+          assets be exchanged freely and programmatically through the
+          blockchain.
 
-          - dolor sit amet
+
+          By foreseeing those changes, the #ideacards project is probing this
+          new paradigm with mainstream adopters of NFT.
         actions: []
         type: grid_item
       - title: For academia...
