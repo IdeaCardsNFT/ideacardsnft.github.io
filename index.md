@@ -73,7 +73,7 @@ sections:
           By foreseeing those changes, the #ideacards project is probing this
           new paradigm with mainstream adopters of NFT.
         actions:
-          - label: lorem-ipsum
+          - label: see Press Release
             url: '#'
             style: link
             icon: dribbble
