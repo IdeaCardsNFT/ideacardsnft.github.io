@@ -43,9 +43,7 @@ sections:
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
       - title: Physical evidence is destroyed
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: "All\_the\_initial\_notes\_related\_to\_each\_idea\_are\_destroyed. Only the NFT remains.\n"
   - title: A design research experiment
     section_id: lorem-ipsum
     subtitle: How can NFT impact design practice?
