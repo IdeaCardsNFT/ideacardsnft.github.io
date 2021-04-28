@@ -4,7 +4,9 @@ subtitle: 'PARIS, 28/04/2021'
 image_alt: A man taking a picture
 seo:
   title: Press Release
-  description: This is the about us page
+  description: >-
+    The #ideacards NFT experiment questions the future of intellectual property
+    and creativity in the age of the blockchain.
   extra:
     - name: 'og:type'
       value: website
