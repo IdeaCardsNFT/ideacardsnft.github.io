@@ -41,7 +41,7 @@ sections:
   - title: A design research experiment
     section_id: lorem-ipsum
     subtitle: How can NFT impact design practice?
-    col_number: three
+    col_number: two
     is_numbered: false
     grid_items: []
     type: section_grid
