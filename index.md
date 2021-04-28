@@ -34,7 +34,7 @@ sections:
       - title: Ideas are summarized in a card
         content: |
           A summary
-      - title: Physical evidence is destroyed
+      - title: Ideas are minted as NFT
         content: "All\_the\_initial\_notes\_related\_to\_each\_idea\_are\_destroyed. Only the NFT remains.\n"
       - title: Physical evidence is destroyed
         image_alt: lorem-ipsum
