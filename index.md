@@ -35,7 +35,8 @@ sections:
         content: |
           A summary
       - title: Ideas are minted as NFT
-        content: "All\_the\_initial\_notes\_related\_to\_each\_idea\_are\_destroyed. Only the NFT remains.\n"
+        content: |
+          The handwritten summary is scanned and published as an NFT on OpenSea.
       - title: Physical evidence is destroyed
         image_alt: lorem-ipsum
         content: "All\_the\_initial\_notes\_related\_to\_each\_idea\_are\_destroyed.\n\nOnly the NFT remains.\n"
