@@ -72,17 +72,21 @@ sections:
         type: grid_item
       - title: For academia...
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## The impact of NFT on creativity
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          New technologies such as crowdsourcing and 3D printing have changed
+          design practice profoundly. Will NFT do the same?
 
 
-          - Lorem ipsum
+          In a setup where the creator can timestamp, communicate and exploit
+          their ideas directly, without other stakeholders, how will their role
+          change in the production of value?
 
-          - dolor sit amet
+
+          Will their creativity be impacted by the need to produce ideas that
+          can be auctioned?
         actions: []
         type: grid_item
     type: section_grid
