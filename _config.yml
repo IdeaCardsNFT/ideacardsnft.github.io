@@ -31,13 +31,6 @@ footer:
     target="_blank" rel="noopener">now</a>
   has_social: true
   social_links:
-    - label: instagram
-      url: 'https://www.instagram.com/ideacardsnft/'
-      style: icon
-      icon: instagram
-      new_window: true
-      no_follow: false
-      type: action
     - label: lorem-ipsum
       url: '#'
       style: link
