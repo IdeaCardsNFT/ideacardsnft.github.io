@@ -47,17 +47,7 @@ sections:
         type: grid_item
       - title: Physical evidence is destroyed
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "All\_the\_initial\_notes\_related\_to\_each\_idea\_are\_destroyed.\n\nOnly the NFT remains.\n"
         actions: []
         type: grid_item
         image: images/smiling-daffodil.png
