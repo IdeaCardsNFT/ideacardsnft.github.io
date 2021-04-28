@@ -74,7 +74,7 @@ sections:
           new paradigm with mainstream adopters of NFT.
         actions:
           - label: see Press Release
-            url: '#'
+            url: /press-release/
             style: link
             icon: dribbble
             new_window: false
