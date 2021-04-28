@@ -92,7 +92,7 @@ sections:
           Will their creativity be impacted by the need to produce ideas that
           can be auctioned?
         actions:
-          - label: lorem-ipsum
+          - label: Research Statement
             url: '#'
             style: link
             icon: dribbble
