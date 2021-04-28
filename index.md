@@ -28,10 +28,9 @@ sections:
     is_numbered: true
     grid_items:
       - title: Original ideas from notebooks
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Ideas are picked from a stack of old notebooks. They were never
+          released nor implemented before.
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
