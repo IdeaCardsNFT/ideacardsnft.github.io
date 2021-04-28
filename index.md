@@ -16,7 +16,7 @@ sections:
       - label: Instagram
         url: 'https://www.instagram.com/ideacardsnft/'
         style: button
-        icon: dribbble
+        icon: instagram
         new_window: false
         no_follow: false
         type: action
