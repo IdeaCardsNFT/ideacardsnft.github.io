@@ -15,7 +15,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Uploading ideas to the blockchain
-    subtitle: An optional subtitle of the section
+    subtitle: 'From paper notebooks to '
     col_number: two
     is_numbered: true
     grid_items:
