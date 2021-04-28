@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: '#ideacards, an NFT experiment'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      An NFT experiment that questions limits of intellectual property and
+      creativity in the blockchain era.
     actions:
       - label: OpenSea Collection
         url: 'https://opensea.io/collection/ideacards/'
