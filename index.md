@@ -45,7 +45,7 @@ sections:
         content: "All\_the\_initial\_notes\_related\_to\_each\_idea\_are\_destroyed.\n\nOnly the NFT remains.\n"
         actions: []
         type: grid_item
-      - title: Phy
+      - title: Physical evidence is destroyed
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
