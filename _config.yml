@@ -31,11 +31,6 @@ footer:
     target="_blank" rel="noopener">now</a>
   has_social: true
   social_links:
-    - label: Instagram
-      url: 'https://www.instagram.com/'
-      style: icon
-      icon: instagram
-      new_window: true
     - label: Dribbble
       url: 'https://dribbble.com/'
       style: icon
