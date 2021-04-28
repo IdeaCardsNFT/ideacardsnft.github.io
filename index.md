@@ -75,7 +75,7 @@ sections:
         actions:
           - label: see Press Release
             url: /press-release/
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
