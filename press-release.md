@@ -34,7 +34,7 @@ layout: page
 
 A new creative project can let you **own an idea by buying it as a non-fungible tokens** (NFT). This artistic project consists in **symbolically transfering ideas to the blockchain**: original ideas are picked from scribbled paper notebooks, then a summary is minted as an NFT, finally all physical evidence is destroyed. The process is designed as a performance, but the question raised is very seriously considered by the industry today: **can NFT be used to trade intellectual property?**
 
-#### An experiment using NFT to make a point
+#### NFT as an experimentation field
 
 WIP The project is not digital art per se, but is using NFTs to make a point.
 
