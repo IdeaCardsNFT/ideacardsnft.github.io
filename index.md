@@ -85,7 +85,9 @@ sections:
     type: section_grid
 seo:
   title: IdeaCardsNFT
-  description: The preview of the Exto theme
+  description: >-
+    This NFT project questions limits of intellectual property and creativity in
+    the blockchain era.
   extra:
     - name: 'og:type'
       value: website
