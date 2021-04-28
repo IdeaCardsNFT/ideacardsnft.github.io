@@ -38,7 +38,7 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - title: lorem-ipsum
+  - title: A design research experiment
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
