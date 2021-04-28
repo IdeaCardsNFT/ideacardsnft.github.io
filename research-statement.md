@@ -29,6 +29,7 @@ seo:
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
+  title: IdeaCardsNFT - Research Statement
 layout: page
 ---
 **
