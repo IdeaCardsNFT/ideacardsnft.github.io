@@ -23,7 +23,9 @@ seo:
     - name: 'twitter:title'
       value: About Us
     - name: 'twitter:description'
-      value: This is the about us page
+      value: >-
+        The #ideacards NFT experiment questions the future of intellectual
+        property and creativity in the age of the blockchain.
   title: IdeaCardsNFT - Research Statement
 layout: page
 ---
