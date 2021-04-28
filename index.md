@@ -113,7 +113,7 @@ seo:
         This NFT project questions limits of intellectual property and
         creativity in the blockchain era.
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: /images/animation-cover.PNG
       relativeUrl: true
 layout: advanced
 ---
