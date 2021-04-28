@@ -40,7 +40,7 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - title: A design research experiment
     section_id: lorem-ipsum
-    subtitle: How can NFT impactchange to design practice?
+    subtitle: How can NFT impact design practice?
     col_number: three
     is_numbered: false
     grid_items: []
