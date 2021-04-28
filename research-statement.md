@@ -3,7 +3,9 @@ title: Research Statement
 subtitle: Work in progress
 image_alt: A man taking a picture
 seo:
-  description: This is the about us page
+  description: >-
+    The #ideacards NFT experiment questions the future of intellectual property
+    and creativity in the age of the blockchain.
   extra:
     - name: 'og:type'
       value: website
