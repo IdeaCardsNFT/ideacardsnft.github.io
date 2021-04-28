@@ -32,10 +32,8 @@ sections:
           Ideas are picked from a stack of old notebooks. They were never
           released nor implemented before.
       - title: Ideas are summarized in a card
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: |
+          A summary
       - title: Physical evidence is destroyed
         content: "All\_the\_initial\_notes\_related\_to\_each\_idea\_are\_destroyed. Only the NFT remains.\n"
       - title: Physical evidence is destroyed
