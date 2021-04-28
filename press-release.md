@@ -1,6 +1,6 @@
 ---
 title: Press Release
-subtitle: A test
+subtitle: 'PARIS, 28/04/2021'
 image_alt: A man taking a picture
 seo:
   title: About Us
