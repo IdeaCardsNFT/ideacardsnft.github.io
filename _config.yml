@@ -34,7 +34,7 @@ footer:
     - label: ig
       url: 'https://www.instagram.com/ideacardsnft/'
       style: icon
-      icon: dribbble
+      icon: instagram
       new_window: false
       no_follow: false
       type: action
