@@ -38,7 +38,7 @@ footer:
       new_window: true
       no_follow: false
       type: action
-    - label: lorem-ipsum
+    - label: insta
       url: '#'
       style: link
       icon: dribbble
