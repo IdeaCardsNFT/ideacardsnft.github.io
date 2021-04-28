@@ -96,7 +96,9 @@ seo:
       value: IdeaCardsNFT
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: >-
+        This NFT project questions limits of intellectual property and
+        creativity in the blockchain era.
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
