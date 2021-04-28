@@ -19,7 +19,7 @@ sections:
         new_window: true
         no_follow: false
         type: action
-    title: '#ideacards, can you own an idea?'
+    title: Can you own an idea?
   - section_id: services
     type: section_grid
     title: Uploading ideas to the blockchain
