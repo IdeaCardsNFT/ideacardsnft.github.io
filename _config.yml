@@ -14,7 +14,7 @@ header:
       url: /
       style: link
     - label: Press Release
-      url: /about/
+      url: /press-release/
       style: link
 footer:
   content: >-
