@@ -29,9 +29,9 @@ seo:
         property and creativity in the age of the blockchain.
 layout: page
 ---
-> The #ideacards NFT experiment questions the future of intellectual property and creativity in the age of the blockchain
+> The #ideacards NFT experiment questions the future of intellectual property and creativity in the age of the blockchain.
 
-A new creative project can let you **own an idea by buying it as a non-fungible tokens** (NFT). This artistic project consists in **symbolically transfering ideas to the blockchain**: original ideas are picked from scribbled paper notebooks, then a summary is minted as an NFT, finally all physical evidence is destroyed. The process is designed as a performance, but the question raised is very seriously considered by the industry today: **can NFT be used to trade intellectual property?**
+A one-of-a-kind project invites you to **own an idea by buying it as a non-fungible tokens** (NFT). This consists in **symbolically transfering ideas to the blockchain**: original ideas are picked from scribbled paper notebooks, then a summary is minted as an NFT, finally all physical evidence is destroyed. The process is designed as a performance, but the question raised is very seriously considered by the industry today: **can NFT be used to trade intellectual property?**
 
 #### NFT as an experimentation field
 
