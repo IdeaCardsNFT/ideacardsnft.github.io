@@ -27,7 +27,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Original ideas from notebooks
+      - title: Original ideas are identified
         content: >
           Ideas are picked from a stack of old notebooks. They were never
           released nor implemented before.
