@@ -14,7 +14,9 @@ seo:
       value: About Us
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: >-
+        The #ideacards NFT experiment questions the future of intellectual
+        property and creativity in the age of the blockchain.
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
