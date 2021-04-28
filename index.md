@@ -31,6 +31,7 @@ sections:
         content: >
           Ideas are picked from a stack of old notebooks. They were never
           released nor implemented before.
+        image: images/notebook-stack-small.png
       - title: Ideas are summarized in a card
         content: |
           A summary is crafted, capturing the essence of each idea.
