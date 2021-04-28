@@ -39,7 +39,7 @@ sections:
           dui sollicitudin.
       - title: Physical evidence is destroyed
         content: "All\_the\_initial\_notes\_related\_to\_each\_idea\_are\_destroyed. Only the NFT remains.\n"
-      - title: lorem-ipsum
+      - title: Physical evidence is destroyed
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
