@@ -42,7 +42,7 @@ sections:
         image: images/unique-daffodil.png
       - title: Physical evidence is destroyed
         image_alt: lorem-ipsum
-        content: "All\_the\_initial\_notes\_related\_to\_each\_idea\_are\_destroyed.\n\nOnly the NFT remains.\n"
+        content: "All\_the\_initial\_notes\_related\_to\_each\_idea\_are\_destroyed. The NFT remains the only evidence this idea existed.\n"
         actions: []
         type: grid_item
         image: images/smiling-daffodil.png
