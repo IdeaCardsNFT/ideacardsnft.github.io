@@ -53,9 +53,12 @@ his artistic experiment is not a random performance, it hits one of the major qu
 
 WIP
 
-#### Contacts
+#### Contacts/Links
 
-Collection: <https://opensea.io/collection/ideacards/>  
-Instagram: [@ideacardsnft]()  
-Email: \[ideacardsnft@gmail.com]\(mailto:ideacardsnft@gmail.com)  
-Web: <https://ideacardsnft.github.io>
+*   Collection: <https://opensea.io/collection/ideacards/>I
+
+*   Instagram: [@ideacardsnft]()
+
+*   Email: ideacardsnft@gmail.com
+
+*   Web: <https://ideacardsnft.github.io>
