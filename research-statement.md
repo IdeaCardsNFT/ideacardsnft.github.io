@@ -1,6 +1,6 @@
 ---
 title: Research Statement
-subtitle: TBH TBD
+subtitle: Work in progress
 image_alt: A man taking a picture
 seo:
   title: About Us
