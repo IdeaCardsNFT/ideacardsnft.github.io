@@ -39,7 +39,7 @@ footer:
       no_follow: false
       type: action
     - label: email
-      url: '#'
+      url: 'mailto:ideacardsnft@gmail.com'
       style: link
       icon: dribbble
       new_window: false
