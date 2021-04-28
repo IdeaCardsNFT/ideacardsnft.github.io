@@ -17,7 +17,7 @@ sections:
         url: 'https://www.instagram.com/ideacardsnft/'
         style: button
         icon: instagram
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
   - section_id: services
