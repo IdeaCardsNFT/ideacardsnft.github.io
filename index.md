@@ -107,7 +107,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: IdeaCardsNFT
     - name: 'twitter:description'
       value: >-
         This NFT project questions limits of intellectual property and
