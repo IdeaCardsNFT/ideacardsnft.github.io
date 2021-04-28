@@ -101,7 +101,7 @@ seo:
         creativity in the blockchain era.
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /images/animation-cover.PNG
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
