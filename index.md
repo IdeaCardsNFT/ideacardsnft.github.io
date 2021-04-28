@@ -13,6 +13,13 @@ sections:
         url: 'https://opensea.io/collection/ideacards/'
         style: button
         new_window: true
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
   - section_id: services
     type: section_grid
     title: Uploading ideas to the blockchain
