@@ -32,7 +32,15 @@
         {% if favicon_is_not_empty %}
         <link rel="icon" href="{{ site.favicon | relative_url }}">
         {% endif %}
-        
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VZH67M9DVD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VZH67M9DVD');
+</script>
     </head>
     <body class="palette-{{ site.color_scheme }} accent-{{ site.accent_color }}">
         
