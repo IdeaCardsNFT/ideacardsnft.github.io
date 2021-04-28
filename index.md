@@ -45,11 +45,6 @@ sections:
         content: "All\_the\_initial\_notes\_related\_to\_each\_idea\_are\_destroyed.\n\nOnly the NFT remains.\n"
         actions: []
         type: grid_item
-      - title: Physical evidence is destroyed
-        image_alt: lorem-ipsum
-        content: "All\_the\_initial\_notes\_related\_to\_each\_idea\_are\_destroyed.\n\nOnly the NFT remains.\n"
-        actions: []
-        type: grid_item
         image: images/smiling-daffodil.png
   - title: A design research experiment
     section_id: lorem-ipsum
