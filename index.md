@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: '#ideacards, an NFT experiment'
+    title: '#ideacards, can you own an idea?'
     content: >
       This design-research project questions limits of intellectual property and
       creativity in the blockchain era.
