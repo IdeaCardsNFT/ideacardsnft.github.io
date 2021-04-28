@@ -13,7 +13,7 @@ sections:
         url: 'https://opensea.io/collection/ideacards/'
         style: button
         new_window: true
-      - label: lorem-ipsum
+      - label: Instagram
         url: '#'
         style: link
         icon: dribbble
