@@ -39,7 +39,7 @@ Each idea has been condensed from sparse notes and scribbles into a one page sum
 
 #### What ideas are we talking about?
 
-Only 8 of the 17 ideas have been released so far and **their diversity is pretty evident**. For instance, you'll find a blockchain membership management idea, an app to practice generosity without object, and a 1-page novel in French. All they have in common is their format - handwritten, scanned - and some finish like a brainstorming with friends.
+Only 8 of the 17 ideas have been released so far and **their diversity is pretty evident**. For instance, you'll find a blockchain membership management idea, an app to practice generosity without object, and a 1-page novel in French. All they have in common is their format - handwritten, scanned - and some finish like a quick creativity workshop.
 
 #### A short-term question for the industry
 
