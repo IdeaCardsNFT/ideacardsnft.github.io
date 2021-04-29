@@ -43,7 +43,7 @@ Only 8 of the 17 ideas have been released so far and **their diversity is pretty
 
 #### A short-term question for the industry
 
-This experiment is not a random hack, it hits one of the major questions for the industry today: the use of\*\* NFT for management of intellectual property\*\*. This is already on the move. Recently, IBM and IPew announced a project for publishing patents as NFT. By equating the property of intellectual assets to the ownership of a non-fungible token, the intention is **to make the patent market more fluid** by letting IP assets be exchanged freely and programmatically through the blockchain. By foreseeing those changes, the #ideacards project is probing this new paradigm with mainstream adopters of NFT.
+This experiment is not a random hack, it hits one of the major questions for the industry today: the use of\*\* NFT for management of intellectual property\*\*. This is already on the move. Recently, [IBM and IPew announced](https://newsroom.ibm.com/2021-04-20-IPwe-and-IBM-Seek-to-Transform-Corporate-Patents-With-Next-Generation-NFTs-Using-IBM-Blockchain) a project for publishing patents as NFT. By equating the property of intellectual assets to the ownership of a non-fungible token, the intention is **to make the patent market more fluid** by letting IP assets be exchanged freely and programmatically through the blockchain. By foreseeing those changes, the #ideacards project is probing this new paradigm with mainstream adopters of NFT.
 
 #### NFT as a field for design-research experimentation
 
