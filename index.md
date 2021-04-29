@@ -48,7 +48,7 @@ sections:
         image: images/smiling-daffodil.png
   - title: A design-research experiment
     section_id: lorem-ipsum
-    subtitle: How can NFT impact ideation practice?
+    subtitle: How can NFT impact ideation in practice?
     col_number: two
     is_numbered: false
     grid_items:
