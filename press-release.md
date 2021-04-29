@@ -55,6 +55,6 @@ The project is not digital art per se, but is using NFTs to make a point: NFTs a
 
 *   Instagram: [@ideacardsnft](https://www.instagram.com/ideacardsnft/)
 
-*   Email: ideacardsnft@gmail.com
+*   Email: ideacardsnft \[at] gmail \[dot] com
 
 *   Web: <https://ideacardsnft.github.io>
