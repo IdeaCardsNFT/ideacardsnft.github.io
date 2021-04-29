@@ -81,7 +81,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: For academia...
+      - title: For research...
         image_alt: lorem-ipsum
         content: >
           ## The impact of NFT on design
