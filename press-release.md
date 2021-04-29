@@ -29,7 +29,7 @@ seo:
         and intellectual property in the blockchain era.
 layout: page
 ---
-> The #ideacards NFT experiment questions the future of ideation and intellectual property in the blockchain era.
+> The #ideacards NFT experiment questions the future of design, creativity and intellectual property in the blockchain era.
 
 A one-of-a-kind experiment invites you to **own an idea by buying it as a non-fungible tokens** (NFT). The project consists in **symbolically transferring ideas to the blockchain**: ideas never released before are drawn from scribbled paper notebooks, then a summary is minted as an NFT, finally all physical evidence is destroyed. The process is designed as a performance, but the question raised is very seriously considered by the industry today: **can NFT be used to trade intellectual property?**
 
