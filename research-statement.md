@@ -1,6 +1,8 @@
 ---
 title: Research Statement
-subtitle: Work in progress
+subtitle: >-
+  Could we imagine a decentralized design process in which actors would use the
+  blockchain as a computer-supported collaboration platform?
 image_alt: A man taking a picture
 seo:
   description: >-
