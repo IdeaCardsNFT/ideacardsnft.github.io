@@ -5,8 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     content: >
-      ### The #ideacards NFT experiment questions the future of ideation and
-      intellectual property in the blockchain era.
+      ### The #ideacards NFT experiment questions the future of design,
+      creativity and intellectual property in the blockchain era.
     actions:
       - label: OpenSea Collection
         url: 'https://opensea.io/collection/ideacards/'
