@@ -135,8 +135,8 @@ seo:
       value: IdeaCardsNFT
     - name: 'twitter:description'
       value: >-
-        This NFT project questions limits of intellectual property and
-        creativity in the blockchain era.
+        The #ideacards NFT experiment questions the future of design, creativity
+        and intellectual property in the blockchain era.
     - name: 'twitter:image'
       value: /images/animation-cover.PNG
       relativeUrl: true
