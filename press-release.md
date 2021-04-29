@@ -16,8 +16,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        The #ideacards NFT experiment questions the future of intellectual
-        property and creativity in the age of the blockchain.
+        The #ideacards NFT experiment questions the future of design, creativity
+        and intellectual property in the blockchain era.
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
