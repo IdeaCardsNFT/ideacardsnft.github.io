@@ -31,11 +31,7 @@ layout: page
 ---
 > The #ideacards NFT experiment questions the future of intellectual property and creativity in the blockchain era.
 
-A one-of-a-kind project invites you to **own an idea by buying it as a non-fungible tokens** (NFT). This consists in **symbolically transfering ideas to the blockchain**: original ideas are picked from scribbled paper notebooks, then a summary is minted as an NFT, finally all physical evidence is destroyed. The process is designed as a performance, but the question raised is very seriously considered by the industry today: **can NFT be used to trade intellectual property?**
-
-#### NFT as an experimentation field
-
-WIP The project is not digital art per se, but is using NFTs to make a point.
+A one-of-a-kind research experiment invites you to **own an idea by buying it as a non-fungible tokens** (NFT). The project consists in **symbolically transferring ideas to the blockchain**: ideas never released before are drawn from scribbled paper notebooks, then a summary is minted as an NFT, finally all physical evidence is destroyed. The process is designed as a performance, but the question raised is very seriously considered by the industry today: **can NFT be used to trade intellectual property?**
 
 #### Uploading ideas to the blockchain
 
@@ -47,11 +43,11 @@ Only 8 of the 17 ideas have been released so far and **their diversity is pretty
 
 #### A short-term question for the industry
 
-his artistic experiment is not a random performance, it hits one of the major question for the industry today: the **use of NFT for management of intellectual property**. This is already on the move. Recently, IBM and IPew announced a project for publishing patents as NFT. By equating the property of intellectual assets to the ownership of a non-fungible token, the intention is **to make the patent market more fluid** by letting IP assets be exchanged freely and programmatically through the blockchain. By foreseeing those changes, the #ideacards project is probing this new paradigm with early mainstream adopters of NFT.
+This experiment is not a random hack, it hits one of the major question for the industry today: the **use of NFT for management of intellectual property**. This is already on the move. Recently, IBM and IPew announced a project for publishing patents as NFT. By equating the property of intellectual assets to the ownership of a non-fungible token, the intention is **to make the patent market more fluid** by letting IP assets be exchanged freely and programmatically through the blockchain. By foreseeing those changes, the #ideacards project is probing this new paradigm with mainstream adopters of NFT.
 
-#### A long-term question for creativity
+#### NFT as a field for design-research experimentation
 
-WIP
+The project is not digital art per se, but is using NFTs to make a point: NFTs are not only transforming digital art, they also will have a **long-term impact the practice of design and creativity**. The #ideacards experiment is an early stage discovery of the nature of that impact both on the practice of ideation, and on the ecosystem supporting the trading of creative ideas.
 
 #### Contacts/Links
 
