@@ -5,8 +5,8 @@ image_alt: A man taking a picture
 seo:
   title: IdeaCardsNFT - Press Release
   description: >-
-    The #ideacards NFT experiment questions the future of intellectual property
-    and creativity in the age of the blockchain.
+    The #ideacards NFT experiment questions the future of design, creativity and
+    intellectual property in the blockchain era.
   extra:
     - name: 'og:type'
       value: website
