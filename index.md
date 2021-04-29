@@ -91,13 +91,13 @@ sections:
           practice profoundly. Will NFT do the same?
 
 
-          In a configuration where the designer can register, credit, share and
-          sell their ideas directly, without middle person or other
+          In a configuration where the **designer can register, credit, share
+          and sell their ideas directly**, without middle person or other
           stakeholders, how will their role change in the production of value?
 
 
-          Could we imagine a decentralized design process in which actors use
-          the blockchain as a collaboration platform?
+          Could we imagine a **decentralized design process** in which actors
+          use the blockchain as a collaboration platform?
         actions:
           - label: see Research Statement
             url: /research-statement/
