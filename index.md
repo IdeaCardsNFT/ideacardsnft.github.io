@@ -46,7 +46,7 @@ sections:
         actions: []
         type: grid_item
         image: images/smiling-daffodil.png
-  - title: A design research experiment
+  - title: A design-research experiment
     section_id: lorem-ipsum
     subtitle: How can NFT impact design practice?
     col_number: two
