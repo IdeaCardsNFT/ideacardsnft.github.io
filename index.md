@@ -111,8 +111,8 @@ sections:
 seo:
   title: IdeaCardsNFT
   description: >-
-    This NFT project questions limits of intellectual property and creativity in
-    the blockchain era.
+    The #ideacards NFT experiment questions the future of design, creativity and
+    intellectual property in the blockchain era.
   extra:
     - name: 'og:type'
       value: website
