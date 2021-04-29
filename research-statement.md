@@ -31,7 +31,7 @@ seo:
   title: IdeaCardsNFT - Research Statement
 layout: page
 ---
-> From Compute-Aided Design to 3D Printing, all major digitalization breakthroughs have transformed the practice of design and creativity. Now Non-Fungible Tokens (NFT) promise to drastically change the way we approach registering, crediting, sharing and selling creative work as digital assets. This is an opportunity for Design Science[1] to investigate.
+> From Compute-Aided Design to 3D Printing, all major digitalization breakthroughs have transformed the practice of design and creativity. Now Non-Fungible Tokens (NFT) promise to drastically change the way we approach registering, crediting, sharing and selling creative work as digital assets. This is an opportunity for Design Science\[1] to investigate.
 
 ### Problem: too many undefined questions
 
@@ -53,7 +53,7 @@ To go full cycle, we will **start from scratch, with zero network**. For that r
 
 ### Expected Results
 
-**Public retrospective journal** - We'll keep notes of the progress of this project, to eventually release them as a blog/journal at a milestone we'll determine, representing the end of a first experimentation cycle (ex: selling all the ideas).
+**Public retrospective journal** - We'll keep notes of the progress of this project, to eventually release them as a blog/journal at a milestone we'll determine, representing the end of a first experimentation cycle (ex: selling all the ideas). We hope this will help fuel a better informed and more extensive research on some of key questions raised above.
 
 **Proceeds** - Should this project raise any ETH, they will be well reinested on other research projects of the same nature, or spent on digital art (there is some seriously awesome content out there).
 
