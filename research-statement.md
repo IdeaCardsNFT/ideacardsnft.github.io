@@ -43,7 +43,7 @@ There are so many open questions at this point, to name a few:
 
 And overall, could we imagine a **decentralized design process** in which actors would use the blockchain as a computer-supported collaboration platform?
 
-The problem of those questions is that they are very preliminary, and are probably not well defined in their terms. This will hinder our capacity to look for relevant directions to our research.
+The problem of those questions is that they are very preliminary, and are probably not well defined in their terms. Trying to addess those, this early in the NFT phenomenon, will hinder our capacity to look for relevant directions to our research.
 
 ### Objective: action-research discovery
 
