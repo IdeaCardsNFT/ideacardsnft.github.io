@@ -55,7 +55,7 @@ To go full cycle, we will **start from scratch, with zero network**. For that r
 
 **Public retrospective journal** - We'll keep notes of the progress of this project, to eventually release them as a blog/journal at a milestone we'll determine, representing the end of a first experimentation cycle (ex: selling all the ideas). We hope this will inform a more extensive research on some of key questions raised above.
 
-**Proceeds** - Should this project raise any ETH, they will be well reinested on other research projects of the same nature, or spent on digital art (there is some seriously awesome content out there).
+**Proceeds** - Should this project raise any ETH, they will be well reinvested on other research projects of the same nature, or spent on digital art (there is some seriously awesome content out there).
 
 ### References
 
