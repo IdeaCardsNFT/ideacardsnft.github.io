@@ -84,7 +84,7 @@ sections:
       - title: For academia...
         image_alt: lorem-ipsum
         content: >
-          ## The impact of NFT on design and creativity
+          ## The impact of NFT on design
 
 
           New technologies such as CAD or 3D printing have changed design
