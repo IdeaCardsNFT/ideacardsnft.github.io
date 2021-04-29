@@ -31,7 +31,7 @@ seo:
   title: IdeaCardsNFT - Research Statement
 layout: page
 ---
-> From Compute-Aided Design to 3D Printing, all major digitalization breakthroughs have transformed the practice of design and creativity. Now Non-Fungible Tokens (NFT) promise to drastically change the way we approach registering, crediting, sharing and selling creative work as digital assets. This is an opportunity for Design Science\[1] to investigate.
+From Compute-Aided Design to 3D Printing, all major digitalization breakthroughs have transformed the practice of design and creativity. Now Non-Fungible Tokens (NFT) promise to drastically change the way we approach registering, crediting, sharing and selling creative work as digital assets. This is an opportunity for Design Science\[1] to investigate.
 
 ### Problem: too many undefined questions
 
