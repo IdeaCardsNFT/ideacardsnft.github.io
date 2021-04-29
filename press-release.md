@@ -53,7 +53,7 @@ The project is not digital art per se, but is using NFTs to make a point: NFTs a
 
 *   Collection: <https://opensea.io/collection/ideacards/>I
 
-*   Instagram: [@ideacardsnft]()
+*   Instagram: [@ideacardsnft](https://www.instagram.com/ideacardsnft/)
 
 *   Email: ideacardsnft@gmail.com
 
