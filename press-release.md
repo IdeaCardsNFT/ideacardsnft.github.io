@@ -35,7 +35,7 @@ A one-of-a-kind experiment invites you to **own an idea by buying it as a non-fu
 
 #### Uploading ideas to the blockchain
 
-Each idea has been condensed from sparse notes and scribbles into a one page summary, scanned and published on [OpenSea]() for auction. To make each NFT a pure representation of the idea, all the **initial notes related to each idea have been destroyed**. You can actually see the paper go down the shredder on [instagram]().
+Each idea has been condensed from sparse notes and scribbles into a one page summary, scanned and published on [OpenSea]() for auction. To make each NFT a pure representation of the idea, all the **initial notes related to each idea have been destroyed**. You can actually see the [paper go down the shredder on instagram](https://www.instagram.com/p/CN9NsbPBK0c/).
 
 #### What ideas are we talking about?
 
