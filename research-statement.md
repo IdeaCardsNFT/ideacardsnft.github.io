@@ -1,8 +1,8 @@
 ---
 title: Research Statement
 subtitle: >-
-  Could we imagine a decentralized design process in which actors would use the
-  blockchain as a computer-supported collaboration platform?
+  Could we imagine a decentralized design process in which actors use the
+  blockchain as a collaboration platform?
 image_alt: A man taking a picture
 seo:
   description: >-
