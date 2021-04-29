@@ -43,9 +43,11 @@ There are so many open questions at this point, to name a few:
 
 And overall, could we imagine a **decentralized design process** in which actors would use the blockchain as a computer-supported collaboration platform?
 
+The problem of those questions is that they are very preliminary, and are probably not well defined in their terms. This will hinder our capacity to look for answers and directions to our research.
+
 ### Objective: action-research discovery
 
-Our current goal is not to tackle all these questions... yet. Before we can do that, we propose to lead an action-research\[2] initiative to **understand the context, actors, processes and tools** related to NFT for design and creativity. We'd also like to identify and formalize the overall dynamic that arises from being a designer immersed in that environment.
+Before we can try to answer those questions, we propose to lead an action-research\[2] initiative to **understand the context, actors, processes and tools** related to NFT for design and creativity. We'd also like to identify and formalize the overall dynamic that arises from being a designer immersed in that environment.
 
 ### Methodology: from zero to TBD
 
