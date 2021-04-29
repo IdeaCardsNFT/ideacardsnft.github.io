@@ -43,11 +43,11 @@ Only 8 of the 17 ideas have been released so far and **their diversity is pretty
 
 #### A short-term question for the industry
 
-This experiment is not a random hack, it hits one of the major question for the industry today: the **use of NFT for management of intellectual property**. This is already on the move. Recently, IBM and IPew announced a project for publishing patents as NFT. By equating the property of intellectual assets to the ownership of a non-fungible token, the intention is **to make the patent market more fluid** by letting IP assets be exchanged freely and programmatically through the blockchain. By foreseeing those changes, the #ideacards project is probing this new paradigm with mainstream adopters of NFT.
+This experiment is not a random hack, it hits one of the major questions for the industry today: the use of** NFT for management of intellectual property**. This is already on the move. Recently, IBM and IPew announced a project for publishing patents as NFT. By equating the property of intellectual assets to the ownership of a non-fungible token, the intention is **to make the patent market more fluid** by letting IP assets be exchanged freely and programmatically through the blockchain. By foreseeing those changes, the #ideacards project is probing this new paradigm with mainstream adopters of NFT.
 
 #### NFT as a field for design-research experimentation
 
-The project is not digital art per se, but is using NFTs to make a point: NFTs are not only transforming digital art, they also will have a **long-term impact the practice of design and creativity**. The #ideacards experiment is an early stage discovery of the nature of that impact both on the practice of ideation, and on the ecosystem supporting the trading of creative ideas.
+The project is not digital art per se, but is using NFTs to make a point: NFTs are not only transforming digital art, they also will have a **long-term impact on the practice of design and creativity**. The #ideacards experiment is an early stage discovery of the nature of that impact both on the practice of ideation, and on the ecosystem supporting the trading of creative ideas.
 
 #### Contacts/Links
 
