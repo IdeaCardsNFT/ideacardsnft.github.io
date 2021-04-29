@@ -43,13 +43,13 @@ To go full cycle, we will **start from scratch, with zero network**. For that r
 
 **Public retrospective journal** - We'll keep notes of the progress of this project, to eventually release them as a blog/journal at a milestone we'll determine, representing the end of a first experimentation cycle (ex: selling all the ideas).
 
-**Proceeds** - Should this project raise any ETH, they will be well spent on other research projects of the same nature, or on digital art (there is some seriously awesome content out there).
+**Proceeds** - Should this project raise any ETH, they will be well reinested on other research projects of the same nature, or spent on digital art (there is some seriously awesome content out there).
 
 ### References
 
 1.  Papalambros, P. (2015). Design Science: Why, What and How. *Design Science,* *1*, E1. [doi:10.1017/dsj.2015.1](https://doi.org/10.1017/dsj.2015.1)
 
-2.  Checkland, P., Holwell, S. (1998). Action Research: Its Nature and Validity. *Systemic Practice and Action Research* 11, 9–21. [doi:10.1023/A:1022908820784](https://doi.org/10.1023/A:1022908820784) 
+2.  Checkland, P., Holwell, S. (1998). Action Research: Its Nature and Validity. *Systemic Practice and Action Research* 11, 9–21. [doi:10.1023/A:1022908820784](https://doi.org/10.1023/A:1022908820784)
 
 #### Contacts/Links
 
