@@ -6,8 +6,8 @@ subtitle: >-
 image_alt: A man taking a picture
 seo:
   description: >-
-    The #ideacards NFT experiment questions the future of intellectual property
-    and creativity in the age of the blockchain.
+    Could we imagine a decentralized creative design process in which actors use
+    the blockchain as a collaboration platform?
   extra:
     - name: 'og:type'
       value: website
