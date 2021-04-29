@@ -31,9 +31,21 @@ seo:
   title: IdeaCardsNFT - Research Statement
 layout: page
 ---
+> From Compute-Aided Design to 3D Printing, all major digitalization breakthroughs have transformed the practice of design and creativity. Now Non-Fungible Tokens (NFT) promise to drastically change the way we approach registering, crediting, sharing and selling creative work as digital assets. This is an opportunity for Design Science[1] to investigate.
+
+### Problem: too many undefined questions
+
+There are so many open questions at this point, to name a few:
+
+*   Can we qualify **NFT as a boundary object** between a designer and an open community of design actors?
+
+*   Through NFT marketplaces, can we imagine a **standalone designer working like a digital artist** and selling their work to other stakeholders to implement and use? Is that a sustainable approach to design?
+
+And overall, could we imagine a **decentralized design process** in which actors would use the blockchain as a computer-supported collaboration platform?
+
 ### Objective: action-research discovery
 
-Our current goal is not to tackle all these questions... yet. Before we can do that, we propose to lead an action-research\[2] initiative to **understand the context, actors, processes and tools** related to NFT for design and creativity. We'd also like to identify the overall dynamic that arises from being a designer immersed in that environment.
+Our current goal is not to tackle all these questions... yet. Before we can do that, we propose to lead an action-research\[2] initiative to **understand the context, actors, processes and tools** related to NFT for design and creativity. We'd also like to identify and formalize the overall dynamic that arises from being a designer immersed in that environment.
 
 ### Methodology: from zero to TBD
 
