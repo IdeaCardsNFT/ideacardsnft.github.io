@@ -84,20 +84,20 @@ sections:
       - title: For academia...
         image_alt: lorem-ipsum
         content: >
-          ## The impact of NFT on creativity
+          ## The impact of NFT on ideation
 
 
-          New technologies such as 3D printing and A.I. are changing design
+          New technologies such as CAD or 3D printing have changed design
           practice profoundly. Will NFT do the same?
 
 
-          In a setup where the creator can timestamp, communicate and exploit
-          their ideas directly, without middle person or other stakeholders, how
-          will their role change in the production of value?
+          In a configuration where the designer can register, credit, share and
+          sell their ideas directly, without middle person or other
+          stakeholders, how will their role change in the production of value?
 
 
-          Will their creativity be impacted by the need to produce ideas that
-          can be auctioned?
+          Could we imagine a decentralized design process in which actors use
+          the blockchain as a collaboration platform?
         actions:
           - label: see Research Statement
             url: /research-statement/
