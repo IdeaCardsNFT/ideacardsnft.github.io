@@ -26,8 +26,8 @@ seo:
       value: IdeaCardsNFT - Research Statement
     - name: 'twitter:description'
       value: >-
-        The #ideacards NFT experiment questions the future of intellectual
-        property and creativity in the age of the blockchain.
+        Could we imagine a decentralized creative design process in which actors
+        use the blockchain as a collaboration platform?
   title: IdeaCardsNFT - Research Statement
 layout: page
 ---
