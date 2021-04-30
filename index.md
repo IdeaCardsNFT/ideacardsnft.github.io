@@ -19,7 +19,7 @@ sections:
         new_window: true
         no_follow: false
         type: action
-      - label: 'Foundation '
+      - label: Foundation Upvote
         url: '#'
         style: link
         icon: dribbble
