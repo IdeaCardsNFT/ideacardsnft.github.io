@@ -21,7 +21,7 @@ sections:
         type: action
       - label: Foundation Upvote
         url: 'https://foundation.app/ideacardsnft'
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
