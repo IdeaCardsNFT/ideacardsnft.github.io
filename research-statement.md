@@ -53,6 +53,8 @@ Before we can try to answer those questions, we propose to lead an action-resear
 
 To go full cycle, we will **start from scratch, with zero network**. For that reason, we'll remain **anonymous**. But in order to gauge interest of the community, and get individual actors to verbalize about their role, we're **stating the goal transparently**.
 
+The project will let us capture the experience of designing for NFT. We will use a journal to keep internal concerns and questions, and will try to interview external actors (buyers, promoters) to understand their experience and involvement.
+
 ### Expected Results
 
 **Public retrospective journal** - We'll keep notes of the progress of this project, to eventually release them as an open science journal at a milestone we'll determine, representing the end of a first experimentation cycle (ex: selling all the ideas). We hope this will inform a more extensive research on some of the key questions raised above.
