@@ -23,7 +23,7 @@ sections:
         url: 'https://foundation.app/ideacardsnft'
         style: button
         icon: dribbble
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
     title: Can you own an idea?
