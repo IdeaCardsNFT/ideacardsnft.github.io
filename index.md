@@ -19,7 +19,7 @@ sections:
         new_window: true
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: 'Foundation '
         url: '#'
         style: link
         icon: dribbble
